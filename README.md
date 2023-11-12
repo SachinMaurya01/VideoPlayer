@@ -1,4 +1,4 @@
-Created this Video Player to watch ad-free Video by using React.js, Tailwind, Rapid API. Design was same like Youtube. 
+Created this Video Player to watch ad-free Video by using React.js, Tailwind, Rapid API, React-Router-DOM. Design was same like Youtube. 
 Link--> https://personalplayer.netlify.app/
 
 ![t1](https://github.com/SachinMaurya01/VideoPlayer/assets/100995198/88f4f9e7-9706-49c6-8609-0bc529c1c155)
